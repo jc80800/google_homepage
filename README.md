@@ -1,1 +1,1 @@
-# web_learning
+A close copy of Google Homepage using basic HTML and CSS
